@@ -1,0 +1,2 @@
+# SolarCalculator
+JavaScript project
